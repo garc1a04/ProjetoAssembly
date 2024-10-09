@@ -1,5 +1,5 @@
 .data
-	testezin: .asciiz "t"
+	testezin: .asciiz "aaaaaaa"
 
 .text
 	la	$a0,testezin
