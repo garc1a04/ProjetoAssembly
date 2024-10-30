@@ -11,4 +11,4 @@
   
   ## Programadores:
   <p><strong>Getulio: link</strong></p>
-  <p><strong>Guilherme: link</strong></p>
+  <p><strong>Guilherme: [Github](https://github.com/garc1a04)</strong></p>
