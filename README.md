@@ -10,5 +10,5 @@
   <img src="FluxogramaAssembly.drawio.png" width="500">
   
   ## Programadores:
-  <p><strong>Getulio: link</strong></p>
-  <p><strong>Guilherme: [Github](https://github.com/garc1a04)</strong></p>
+  <p><strong>Getulio: https://github.com/getuliogglb </strong></p>
+  <p><strong>Guilherme: https://github.com/garc1a04 </strong></p>
